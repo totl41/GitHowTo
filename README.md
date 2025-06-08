@@ -1,0 +1,2 @@
+# GitHowTo
+Изучаю GIT
